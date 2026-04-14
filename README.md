@@ -16,16 +16,11 @@ Python, Pandas, Scikit-learn, Streamlit, Ngrok
 ## 📈 Model Performance
 - Algorithm: Linear Regression
 - R² Score: 0.87
+  
+## 📌 Project Outcome
+- An interactive AI system that predicts manufacturing costs in real-time.
 
 ## 💻 How to Run
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-📌 Project Outcome
-
-An interactive AI system that predicts manufacturing costs in real-time.
-
-👩‍💻 Author
-
-Maria Kausar

@@ -21,3 +21,12 @@ Python, Pandas, Scikit-learn, Streamlit, Ngrok
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+📌 Project Outcome
+
+An interactive AI system that predicts manufacturing costs in real-time.
+
+👩‍💻 Author
+
+Your Name

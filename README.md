@@ -23,10 +23,10 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📌 Project Outcome
+##📌 Project Outcome
 
 An interactive AI system that predicts manufacturing costs in real-time.
 
-👩‍💻 Author
+##👩‍💻 Author
 
-Your Name
+Maria Kausar

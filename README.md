@@ -14,6 +14,7 @@ This project is an end-to-end machine learning system that predicts manufacturin
 ## 🧠 Tech Stack
 Python, Pandas, Scikit-learn, Streamlit, Ngrok
 
+
 ## 📈 Model Performance
 - Algorithm: Linear Regression
 - R² Score: 0.87

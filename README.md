@@ -9,7 +9,6 @@ This project is an end-to-end machine learning system that predicts manufacturin
 - Real-time cost prediction system
 - Streamlit web application
 - Live deployment using ngrok
-  
 
 ## 🧠 Tech Stack
 Python, Pandas, Scikit-learn, Streamlit, Ngrok

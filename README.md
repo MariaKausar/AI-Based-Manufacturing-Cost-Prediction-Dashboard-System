@@ -23,6 +23,6 @@ Python, Pandas, Scikit-learn, Streamlit, Ngrok
 ## 📌 Project Outcome
 - An interactive AI system that predicts manufacturing costs in real-time.
 
-## 👩‍💻 Author
+## 👩‍💻 Author maria
 
 Maria Kausar

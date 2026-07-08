@@ -4,6 +4,7 @@
 This project is an end-to-end machine learning system that predicts manufacturing costs based on production parameters.
 
 
+
 ## 📊 Features
 - Data generation for manufacturing simulation
 - Linear Regression model (R² = 0.87)
